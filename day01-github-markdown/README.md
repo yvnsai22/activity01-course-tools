@@ -3,9 +3,9 @@ Day 1 - GitHub and Markdown
 
 In this repository/directory you should see two items:
 
-- `README.md` - this document
-- `activity00.pdf` - a PDF document that you will be recreating using
-  your markdown skills
+- `README.md` - this document.
+- `activity00.pdf` - a PDF document that you will think critically about
+  shortly.
 
 ## Task 1: View the PDF in GitHub
 
