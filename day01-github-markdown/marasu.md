@@ -6,4 +6,5 @@ I hope you are all having a great summer and I am excited to meet new people in 
 
 
 Website exploration
+
 https://www.statsmodels.org/stable/index.html I explored a bit about the statistical models along with coded examples. I thought it would be a valuable reference for future usage regarding learning various statistical models.
